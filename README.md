@@ -32,10 +32,10 @@ Telegram lib: aiogram
 ## Screenshots
 
 <p>
-<img src="http://mcg.zone/img/converter_somoni_bot/img_02.png" width="210" alt="mobile_screen">&nbsp;&nbsp;
-<img src="http://mcg.zone/img/converter_somoni_bot/img_03.png" width="210" alt="mobile_screen">&nbsp;&nbsp;
-<img src="http://mcg.zone/img/converter_somoni_bot/img_04.png" width="210" alt="mobile_screen">&nbsp;&nbsp;
-<img src="http://mcg.zone/img/converter_somoni_bot/img_05.png" width="210" alt="mobile_screen">
+<img src="http://mcg.zone/img/converter_somoni_bot/img_02.png" width="200" alt="mobile_screen">&nbsp;&nbsp;
+<img src="http://mcg.zone/img/converter_somoni_bot/img_03.png" width="200" alt="mobile_screen">&nbsp;&nbsp;
+<img src="http://mcg.zone/img/converter_somoni_bot/img_04.png" width="200" alt="mobile_screen">&nbsp;&nbsp;
+<img src="http://mcg.zone/img/converter_somoni_bot/img_05.png" width="200" alt="mobile_screen">
 </p>
 
 
