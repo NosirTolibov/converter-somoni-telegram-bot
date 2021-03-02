@@ -8,7 +8,7 @@ Telegram lib: aiogram
 [Telegram](https://t.me/ConverterSomoniBot): @ConverterSomoniBot
 
 
-## Configuration
+## Конфигурация
 
 В переменных окружения добавлены следующие данные:
 
@@ -32,14 +32,14 @@ Telegram lib: aiogram
 ## Screenshots
 
 <p>
-<img src="http://mcg.zone/img/converter_somoni_bot/img_02.png" width="195" alt="mobile_screen">&nbsp;&nbsp;
-<img src="http://mcg.zone/img/converter_somoni_bot/img_03.png" width="195" alt="mobile_screen">&nbsp;&nbsp;
-<img src="http://mcg.zone/img/converter_somoni_bot/img_04.png" width="195" alt="mobile_screen">&nbsp;&nbsp;
-<img src="http://mcg.zone/img/converter_somoni_bot/img_05.png" width="195" alt="mobile_screen">
+<img src="http://mcg.zone/img/converter_somoni_bot/img_02.png" width="210" alt="mobile_screen">&nbsp;&nbsp;
+<img src="http://mcg.zone/img/converter_somoni_bot/img_03.png" width="210" alt="mobile_screen">&nbsp;&nbsp;
+<img src="http://mcg.zone/img/converter_somoni_bot/img_04.png" width="210" alt="mobile_screen">&nbsp;&nbsp;
+<img src="http://mcg.zone/img/converter_somoni_bot/img_05.png" width="210" alt="mobile_screen">
 </p>
 
 
-## Android App
+## Об Android приложении Конвертер Сомони
 
 Приложение является супер простым и бесплатным конвертером валют. Удобный интерфейс позволяет конвертировать валюту очень легко. Сравнивайте курсы валют между банками, чтобы убедиться, что покупка или продажа выгодна. Мы собрали для Вас курс валют четырнадцати банков Таджикистана, которые постоянно обновляются.
 
