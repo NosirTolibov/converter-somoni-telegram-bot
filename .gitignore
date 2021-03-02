@@ -1,0 +1,13 @@
+finance.db
+**/.DS_Store
+.idea/
+**/__pycache__
+*.log
+*.pickle
+*.pid
+*.out
+.ipynb_checkpoints
+env/
+.pytest_cache/
+tests/.pytest_cache/
+/venv/
